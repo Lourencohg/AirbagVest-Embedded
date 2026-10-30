@@ -33,7 +33,7 @@ flowchart LR
     DET -. eventos .-> LOG
 ```
 
-## 📋 Requisitos Preliminares
+## Requisitos Preliminares
 Os valores abaixo serão fechados na reunião de kickoff e revisados após os testes iniciais (M4).
  
 | Requisito | Meta | Status |
@@ -69,7 +69,7 @@ O detalhamento semanal está em [`docs/CRONOGRAMA.md`](CRONOGRAMA.md).
  
 ### M1: Setup e Aquisição de Dados (02/11 – 13/11)
 Configuração do ambiente STM32, comunicação com a IMU e leitura bruta (raw) dos dados de aceleração e rotação.
-- [ ] Comunicação SPI validada (leitura do registrador WHO_AM_I)
+- [ ] Comunicação SPI validada
 - [ ] Faixas de medição e taxa de amostragem configuradas
 - [ ] Aquisição não-bloqueante via EXTI + DMA, com timestamp por amostra
 - [ ] Logging para o PC sem perda de amostras em 10 min
