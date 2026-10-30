@@ -55,10 +55,10 @@ A equipe é composta por 4 membros, com supervisão ocasional do professor orien
 
 | Frente | Responsável | Principais entregas |
 |---|---|---|
-| **Engenharia de Firmware & Controle** | _(nome)_ | Projeto STM32, driver SPI/DMA do ICM-20948, interrupções, logging, integração dos módulos |
-| **Processamento de Sinais & Algoritmos** | _(nome)_ | Modelagem hipotética da detecção, filtro de fusão, porte do algoritmo para C, análise de FP/FN |
-| **Hardware & Eletrônica de Potência** | _(nome)_ | Montagem em protoboard, circuito de acionamento do atuador, esquemático documentado |
-| **Testes & Integração** | _(nome)_ | Protocolos de teste, bancada de ensaios, coleta e rotulagem de dados, medição de latência |
+| **Engenharia de Firmware & Controle** | _(Wesley)_ | Projeto STM32, driver SPI/DMA do ICM-20948, interrupções, logging, integração dos módulos |
+| **Processamento de Sinais & Algoritmos** | _(João)_ | Modelagem hipotética da detecção, filtro de fusão, porte do algoritmo para C, análise de FP/FN |
+| **Hardware & Eletrônica de Potência** | _(Lourenço)_ | Montagem em protoboard, circuito de acionamento do atuador, esquemático documentado |
+| **Testes & Integração** | _(Ludimila)_ | Protocolos de teste, bancada de ensaios, coleta e rotulagem de dados, medição de latência |
 | **Supervisão** | _(professor)_ | Revisões nos checkpoints do cronograma |
 
 
