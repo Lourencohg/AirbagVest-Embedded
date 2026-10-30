@@ -7,7 +7,7 @@ Este projeto tem foco acadêmico e potencial para futura pesquisa e aplicação.
 
 
 ## 👥 Divisão da Equipe
-Para otimizar o desenvolvimento, as etapas de desenvolvimentos foram dividas nas seguintes frentes(as quais não necessariamente acontecem em serie):
+Para otimizar o desenvolvimento, as etapas de desenvolvimentos foram dividas nas seguintes frentes(as quais em sua maioria acontecem em paralelo):
 *   **Engenharia de Firmware & Controle:** Desenvolvimento do código no STM32, configuração de periféricos (I2C/SPI para a IMU) e gerenciamento de interrupções.
 *   **Processamento de Sinais & Algoritmos:** Implementação de filtros de ruído (ex: Filtro de Kalman ou Madgwick) e modelagem da lógica de detecção de acidentes.
 *   **Hardware & Eletrônica de Potência:** Projeto esquemático, layout da PCB e circuito de acionamento (ignição) do atuador do airbag.
@@ -28,6 +28,8 @@ Adotamos um fluxo baseado no **GitFlow** para manter a organização do código:
 ## 🎯 Milestones (Marcos do Projeto)
 - [ ] **M1: Setup e Aquisição de Dados:** Configuração do ambiente STM32, comunicação com a IMU e leitura bruta (raw) dos dados de aceleração e rotação.
 - [ ] **M2: Processamento e Filtragem:** Implementação e calibração dos filtros de ruído da IMU para obter orientação e aceleração lineares confiáveis.
-- [ ] **M3: Algoritmo de Detecção:** Desenvolvimento e calibração dos limiares (thresholds) matemáticos para identificar quedas e impactos sem falsos positivos.
-- [ ] **M4: Acionamento e Hardware:** Integração da lógica com o circuito de potência para disparo do atuador do airbag e finalização do projeto da PCB.
-- [ ] **M5: Testes e Validação:** Ensaios práticos de bancada e elaboração da documentação final para submissão a bolsas de pesquisa.
+- [ ] **M3: Algoritmo de Detecção:** Desenvolvimento e calibração dos limiares (thresholds) matemáticos para identificar quedas e impactos, além de demarcação do Escopo de Testes preliminares.
+- [ ] **M4: Teste Iniciais:** Realização dos testes preliminares e aquisição de data para validar suposições acerca do algoritmo de detecção de quedas e validação do setup de aquisição de dados.
+- [ ] **M5: Analise de Performance:**
+- [ ] **M6: Desenvolvimento do Hardware:** Integração da lógica com o circuito de potência para validar o sistema por completo em um embarcado pronto para validação.
+- [ ] **M7: Testes e Validação do produto Final:** Ensaios práticos de bancada e elaboração da documentação final para submissão a bolsas de pesquisa.
