@@ -50,7 +50,7 @@ Os valores abaixo serão fechados na reunião de kickoff e revisados após os te
 
 
 ## 👥 Divisão da Equipe
-A equipe é composta por 4 membros, com supervisão ocasional do professor orientador Dario. Cada frente tem um responsável principal, mas as frentes trabalham em paralelo e se apoiam mutuamente. Um frente não significa especificamente que o responsavel só tera atribuições de atividades relacionadas a mesma, mas sim que esse ´[e o responsavel por validar e coordenar as atividades dessa frente.
+A equipe é composta por 4 membros, com supervisão ocasional do professor orientador Dario. Cada frente tem um responsável principal, mas as frentes trabalham em paralelo e se apoiam mutuamente. Um frente não significa especificamente que o responsavel só tera atribuições de atividades relacionadas a mesma, mas sim que esse é o responsavel por validar e coordenar as atividades dessa frente.
 
 
 | Frente | Responsável | Principais entregas |
